@@ -1,0 +1,14 @@
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\bin\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.exe
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\bin\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.deps.json
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\bin\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.runtimeconfig.json
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\bin\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.runtimeconfig.dev.json
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\bin\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.dll
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\bin\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.pdb
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\obj\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.csproj.AssemblyReference.cache
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\obj\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\obj\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.AssemblyInfoInputs.cache
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\obj\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.AssemblyInfo.cs
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\obj\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.csproj.CoreCompileInputs.cache
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\obj\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.dll
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\obj\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.pdb
+C:\Users\Khushboo Badil\source\repos\Demo_Anonymus_Delegate\Demo_Anonymus_Delegate\obj\Debug\netcoreapp3.1\Demo_Anonymus_Delegate.genruntimeconfig.cache

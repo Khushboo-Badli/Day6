@@ -1,0 +1,7 @@
+C:\Users\Khushboo Badil\source\repos\Demo_Delegates\Demo_Delegates\bin\Debug\Demo_Delegates.exe.config
+C:\Users\Khushboo Badil\source\repos\Demo_Delegates\Demo_Delegates\bin\Debug\Demo_Delegates.exe
+C:\Users\Khushboo Badil\source\repos\Demo_Delegates\Demo_Delegates\bin\Debug\Demo_Delegates.pdb
+C:\Users\Khushboo Badil\source\repos\Demo_Delegates\Demo_Delegates\obj\Debug\Demo_Delegates.csproj.AssemblyReference.cache
+C:\Users\Khushboo Badil\source\repos\Demo_Delegates\Demo_Delegates\obj\Debug\Demo_Delegates.csproj.CoreCompileInputs.cache
+C:\Users\Khushboo Badil\source\repos\Demo_Delegates\Demo_Delegates\obj\Debug\Demo_Delegates.exe
+C:\Users\Khushboo Badil\source\repos\Demo_Delegates\Demo_Delegates\obj\Debug\Demo_Delegates.pdb
